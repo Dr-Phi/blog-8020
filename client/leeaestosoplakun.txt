@@ -1,2 +1,0 @@
-aqui en la carpeta cliente usted va a instalar todas las librerias que necesite
-y ademas va organizar las carpetas y los archivos del cliente
